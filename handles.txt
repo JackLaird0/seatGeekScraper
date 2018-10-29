@@ -10,4 +10,5 @@ open browser
 google.com
 search (team1, team2, seatgeek, date)
 first (seatgeek) link
-grab all
+grab all prices/section information (? create a database of information ?)
+send push alert (text/email) if price fulfills certain requirements
