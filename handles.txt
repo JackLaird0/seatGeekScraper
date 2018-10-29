@@ -1,0 +1,4 @@
+wrapping box: omnibox__listings
+individual item: omnibox__listing
+price: omnibox__listing__buy__price
+section: omnibox__listing__section
