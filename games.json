@@ -1,0 +1,154 @@
+[
+  {
+    "time": "MONDAY, OCT 29 / 7:00 PM",
+    "game": "New Orleans Pelicans"
+  },
+  {
+    "time":  "SATURDAY, NOV 3 / 7:00 PM",
+    "game": "Utah Jazz"
+  },
+  {
+    "time":  "MONDAY, NOV 5 / 7:00 PM",
+    "game": "Boston Celtics"
+  },
+  {
+    "time":  "FRIDAY, NOV 9 / 7:00 PM",
+    "game": "Brooklyn Nets"
+  },
+  {
+    "time":  "SUNDAY, NOV 11 / 6:00 PM",
+    "game": "Milwaukee Bucks"
+  },
+  {
+    "time":  "TUESDAY, NOV 13 / 7:00 PM",
+    "game": "Houston Rockets"
+  },
+  {
+    "time":  "THURSDAY, NOV 15 / 7:00 PM",
+    "game": "Atlanta Hawks"
+  },
+  {
+    "time":  "FRIDAY, NOV 23 / 7:00 PM",
+    "game": "Orlando Magic"
+  },
+  {
+    "time":  "TUESDAY, NOV 27 / 7:00 PM",
+    "game": "Los Angeles Lakers"
+  },
+  {
+    "time":  "MONDAY, DEC 10 / 7:00 PM",
+    "game": "Memphis Grizzlies"
+  },
+  {
+    "time":  "FRIDAY, DEC 14 / 8:00 PM",
+    "game": "Oklahoma City Thunder"
+  },
+  {
+    "time":  "SUNDAY, DEC 16 / 6:00 PM",
+    "game": "Toronto Raptors"
+  },
+  {
+    "time":  "TUESDAY, DEC 18 / 7:00 PM",
+    "game": "Dallas Mavericks"
+  },
+  {
+    "time":  "FRIDAY, DEC 28 / 7:00 PM",
+    "game": "San Antonio Spurs"
+  },
+  {
+    "time":  "TUESDAY, JAN 1 / 7:00 PM",
+    "game": "New York Knicks"
+  },
+  {
+    "time":  "SATURDAY, JAN 5 / 3:00 PM",
+    "game": "Charlotte Hornets"
+  },
+  {
+    "time":  "THURSDAY, JAN 10 / 7:00 PM   ",
+    "game": "Los Angeles Clippers"
+  },
+  {
+    "time":  "SUNDAY, JAN 13 / 6:00 PM",
+    "game": "Portland Trail Blazers"
+  },
+  {
+    "time":  "TUESDAY, JAN 15 / 7:00 PM",
+    "game": "Golden State Warriors"
+  },
+  {
+    "time":  "THURSDAY, JAN 17 / 7:00 PM",
+    "game": "Chicago Bulls"
+  },
+  {
+    "time":  "SATURDAY, JAN 19 / 8:00 PM",
+    "game": "Cleveland Cavaliers"
+  },
+  {
+    "time":  "FRIDAY, JAN 25 / 7:00 PM",
+    "game": "Phoenix Suns"
+  },
+  {
+    "time":  "SATURDAY, JAN 26 / 7:00 PM",
+    "game": "Philadelphia 76ers"
+  },
+  {
+    "time":  "FRIDAY, FEB 1 / 8:00 PM",
+    "game": "Houston Rockets"
+  },
+  {
+    "time":  "MONDAY, FEB 11 / 7:00 PM",
+    "game": "Miami Heat"
+  },
+  {
+    "time":  "WEDNESDAY, FEB 13 / 7:00 PM",
+    "game": "Sacramento Kings"
+  },
+  {
+    "time":  "SUNDAY, FEB 24 / 3:00 PM",
+    "game": "Los Angeles Clippers"
+  },
+  {
+    "time":  "TUESDAY, FEB 26 / 8:30 PM",
+    "game": "Oklahoma City Thunder"
+  },
+  {
+    "time":  "THURSDAY, FEB 28 / 7:00 PM",
+    "game": "Utah Jazz"
+  },
+  {
+    "time":  "SATURDAY, MAR 2 / 7:00 PM",
+    "game": "New Orleans Pelicans"
+  },
+  {
+    "time":  "TUESDAY, MAR 12 / 8:30 PM",
+    "game": "Minnesota Timberwolves"
+  },
+  {
+    "time":  "THURSDAY, MAR 14 / 8:30 PM",
+    "game": "Dallas Mavericks"
+  },
+  {
+    "time":  "SATURDAY, MAR 16 / 7:00 PM",
+    "game": "Indiana Pacers"
+  },
+  {
+    "time":  "TUESDAY, MAR 26 / 7:00 PM",
+    "game": "Detroit Pistons"
+  },
+  {
+    "time":  "SUNDAY, MAR 31 / 6:00 PM",
+    "game": "Washington Wizards"
+  },
+  {
+    "time":  "WEDNESDAY, APR 3 / 7:00 PM",
+    "game": "San Antonio Spurs"
+  },
+  {
+    "time":  "FRIDAY, APR 5 / 8:30 PM",
+    "game": "Portland Trail Blazers"
+  },
+  {
+    "time":  "WEDNESDAY, APR 10 / 8:30 PM",
+    "game": "Minnesota Timberwolves"
+  }
+]
